@@ -1,0 +1,23 @@
+# pack-refs with: peeled fully-peeled sorted 
+9317f0c0185e6a38ac6df0a4705d604e9a505d93 refs/remotes/origin/cuda-ci
+da328db3551f378ad7cd96b3b071495db9847175 refs/remotes/origin/docs
+593bd30db55ee3e9ea7a783459af32ee2f04f58b refs/remotes/origin/docs_main
+33bbca3e99dffacfd686b48d0af123be31210572 refs/remotes/origin/feat-average-iterable
+47b84920c612166fc1052065a56347b818624896 refs/remotes/origin/feat-average-iterable-rebased
+605e2033b18f8b44c62d26d827cb9be828ff8ad2 refs/remotes/origin/feat-constexpr-change
+b00fe95f2f89febcf8b79d45dc19e0d10dc47291 refs/remotes/origin/feat-interval-tests
+d8e833139d3e1193a23e0a077cdf17c24b0fa2c2 refs/remotes/origin/feat-subgroup-assignment
+1c8fd6ac0b56e48d2bdcd6f1cf4c7cce52597188 refs/remotes/origin/fix-compile-issue
+c3d7fb0e11adb496a5a8fa7fb79e9d78072e7e20 refs/remotes/origin/fix-unbounded
+f5fa7ddf00e87546de9b2fa69b3f8f3a991852c4 refs/remotes/origin/gh_pages_beta
+d0b7315a0d90fc6143defa54596a3a95d9fa10ec refs/remotes/origin/main
+ed85b14a159702ccf373e0020f35ab4c40520dc6 refs/remotes/origin/se2-protos
+27056f4e8aca3d36ffe6796149df5388c28767fc refs/remotes/origin/sophus2
+de0f8d3d92bf776271e16de56d1803940ebccab9 refs/tags/1.22.10
+f01f91d3cdedcde475c345c4d537845096164de9 refs/tags/1.22.4
+d0b7315a0d90fc6143defa54596a3a95d9fa10ec refs/tags/1.24.6
+d3953307b8e9b673072d21a4ddab07c2b024a5a7 refs/tags/1.24.6-rc1
+166bb04c434f23d82bb08203589732253859a23d refs/tags/v0.9.5
+^b3335810700374af74dbb05fa7d584baa9580596
+db218a249202fe63ac13248b5f565b0d385f6640 refs/tags/v1.0.0
+7ee4ed806e8d14d370e201c77b5b5c14987591e6 refs/tags/v1.0.0-rc0
