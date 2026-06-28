@@ -1,7 +1,7 @@
 bags/fastlio_result_20260626_110316/fastlio_result_20260626_110316_0.db3 filter=lfs diff=lfs merge=lfs -text
-bags/raw_livox_20260626_094631/raw_livox_20260626_094631_0.db3 filter=lfs diff=lfs merge=lfs -text
 bags/raw_livox_20260626_105638/raw_livox_20260626_105638_0.db3 filter=lfs diff=lfs merge=lfs -text
 env/Sophus/build/test/core/CMakeFiles/test_rxso3.dir/test_rxso3.cpp.o filter=lfs diff=lfs merge=lfs -text
 env/Sophus/build/test/core/CMakeFiles/test_se3.dir/test_se3.cpp.o filter=lfs diff=lfs merge=lfs -text
 env/Sophus/build/test/core/CMakeFiles/test_sim3.dir/test_sim3.cpp.o filter=lfs diff=lfs merge=lfs -text
 env/Sophus/build/test/core/CMakeFiles/test_so3.dir/test_so3.cpp.o filter=lfs diff=lfs merge=lfs -text
+bags/raw_livox_20260626_094631/raw_livox_20260626_094631_0.db3.part-* filter=lfs diff=lfs merge=lfs -text
