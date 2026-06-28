@@ -1,0 +1,11 @@
+ros2.zip
+*.zip
+*.bag
+*.db3
+build/
+install/
+log/
+*.pyc
+.vscode/
+.cache/
+.env
